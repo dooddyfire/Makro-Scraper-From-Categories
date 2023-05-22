@@ -130,4 +130,4 @@ df['desc'] = desc_lis
 st.dataframe(df[:45])
 
 st.success("ตัวอย่างข้อมูล 45 แถวแรก")
-df.to_excel("Testx.xlsx")
+#df.to_excel("Testx.xlsx")
